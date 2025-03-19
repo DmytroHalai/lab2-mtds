@@ -1,8 +1,8 @@
 package main;
 
-class Node {
-    char data;
-    Node next;
+public class Node {
+    public char data;
+    public Node next;
     Node prev;
 
     public Node(char data) {

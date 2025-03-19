@@ -1,8 +1,8 @@
 package main;
 
-class DoublyLinkedList {
-    private Node head;
-    private Node tail;
+public class DoublyLinkedList {
+    public Node head;
+    public Node tail;
 
     public DoublyLinkedList() {
         head = null;
