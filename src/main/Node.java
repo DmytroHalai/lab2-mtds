@@ -1,3 +1,5 @@
+package main;
+
 class Node {
     char data;
     Node next;

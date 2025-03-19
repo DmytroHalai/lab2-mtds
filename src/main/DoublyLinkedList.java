@@ -1,3 +1,5 @@
+package main;
+
 class DoublyLinkedList {
     private Node head;
     private Node tail;
